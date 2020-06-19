@@ -1,0 +1,27 @@
+table{
+    width:50%;
+    background-color:	#d787af
+    ;
+    font-weight: 800px;
+}
+.operation{
+    border:1px solid;
+    
+}
+td{
+    text-align: center;
+}
+tr{
+    height: 50%;
+}
+tr:hover{
+    color: 
+    #d7005f
+    ;
+}
+tr:link{
+background-color: plum;
+}
+body{
+    background-color: #d0d0d0;
+}
